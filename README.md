@@ -2,6 +2,7 @@
 Description: Google Colab used to make machine learning model for TFG. We include from pre processing data to obtaining the results using different types of algorithms and methods.
 
 TFG name: Sistema de detección de caídas mediante un dispositivo wearable
+
 Tutors: Pilar Martínez Ortigosa, Marcos Lupión Lorente
 
 Abstract: 
